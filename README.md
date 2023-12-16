@@ -1,6 +1,13 @@
 # CampSyrupModpack
 A community Minecraft modpack
 
+#installation
+1. Must have CurseForge launcher
+2. Download latest modpack version from 'release'
+3. In curseforge under my modpacks in minecraft, select 'create custom profile'
+4. click import previously created profile, and choose the downloaded zip file
+5. after the modpack loads, enjoy!
+
 ## full modlist
 * FastSuite (by Shadows_of_Fire)
 * YUNG's Better Witch Huts (Forge) (by YUNGNICKYOUNG)
